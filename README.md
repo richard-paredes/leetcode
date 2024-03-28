@@ -10,6 +10,7 @@ This repository is structured around different programming topics, such as Array
 
 The repository is organized into folders representing major programming concepts or topics, each of which contains subfolders for difficulty levels. Here's a general overview of the structure:
 
+```bash
 Leetcode_By_Paredev/
 │
 ├── README.md
@@ -35,7 +36,7 @@ Leetcode_By_Paredev/
 │ └── Hard/
 │
 └── (Other Topics as needed)
-
+```
 
 ### Folder and File Naming
 
